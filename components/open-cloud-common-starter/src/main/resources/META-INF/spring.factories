@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.unicom.autoconfigure.AutoConfiguration,\
+  com.unicom.autoconfigure.FeignAutoConfiguration,\
+  com.unicom.autoconfigure.MqAutoConfiguration,\
+  com.unicom.autoconfigure.SwaggerAutoConfiguration,\
+  com.unicom.autoconfigure.WebMvcConfiguration,\
+  com.unicom.autoconfigure.RedisCacheAutoConfiguration,\
+  com.unicom.autoconfigure.JacksonAutoConfiguration
